@@ -83,7 +83,6 @@ Improvements to lots of NVIDIA settings for maximum performance on NVIDIA cards,
 - All wine dependencies
 - Supergxctl to switch between hybrid mode or only integraded GPU
 - Timeshift-auto-snaps
-- Optional version with snapd support integrated
 - Raytracing support (supported hardware needed)
 - Custom repo, with some PKGs that you would normally get only through the AUR (xray-repos basically)
 - yay - AUR helper
