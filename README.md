@@ -6,7 +6,7 @@
 
 Arch Linux EMP or Arch Linux Empowred is an Arch Linux version highly improved with fixes for performance better functionality absolute compatibility with gaming and at the same time remaining its vanilla look and logos related to Arch Linux.
 
-Remember Arch Linux doesn't have a default appaerance or defaults settings, so anything you do with your distro could be considered Arch Linux or Linux in general, so my Arch Linux version would be a super monster with steroids ready for gaming, content creation and programming.
+The idea is not having so many programs pre-installed, but have everything preconfigured so the user doesn't need to have a hard time, **eg. Want to Game? Download steam.. Worried about wine/dependencies Arch-EMP got you covered, it has all of them! so don't worry**
 
 ## About "BLOAT"
 What you probably call bloat, i probably call it "programs that everyone should have", there is nothing wrong with a system that has ready to go settings and programs for things that should be out of the box available by default when it comes to functionality and great performance on your Linux system. 
