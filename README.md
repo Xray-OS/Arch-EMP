@@ -96,6 +96,7 @@ What does it look like?
 ![Desktop1](https://images2.imgbox.com/da/c2/DbH8ijhH_o.png)
 
 **Download(AMD)1.01:** [![Download Arch-EMP](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/arch-linux-empowered-arch-emp/files/plasma-amd/DOWNLOAD%20LINK.txt/download)
+**Download(NVIDIA)1.01:** [![Download Arch-EMP](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/arch-linux-empowered-arch-emp/files/plasma-nvidia/DOWNLOAD%20LINK-NVIDIA.txt/download)
 
 ## AMD version it's been worked please wait, Thank You. 
 
