@@ -78,7 +78,7 @@ Improvements to lots of NVIDIA settings for maximum performance on NVIDIA cards,
 - Out of the box ready for gaming content creation and programming
 - Plasma desktop enviroment already configured properly
 - Xanmod Real Time Kernel
-- Floorp browser as your default browser + Vivaldi browser (yes i have a bias for these browsers)
+- Floorp browser as your default browser
 - All essential services like bluetooth enabled
 - All wine dependencies
 - Supergxctl to switch between hybrid mode or only integraded GPU
