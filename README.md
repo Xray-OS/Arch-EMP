@@ -77,7 +77,7 @@ Improvements to lots of NVIDIA settings for maximum performance on NVIDIA cards,
 - Beatiful terminal with ZSH
 - Out of the box ready for gaming content creation and programming
 - Plasma desktop enviroment already configured properly
-- Xanmod Real Time Kernel
+- Liquorix Kernel
 - Floorp browser as your default browser
 - All essential services like bluetooth enabled
 - All wine dependencies
